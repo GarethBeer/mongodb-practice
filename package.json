@@ -1,15 +1,15 @@
 {
-  "name": "mongodb-practice",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "mocha": "^7.0.1",
-    "mongoose": "^5.8.11"
-  }
+	"name": "mongodb-practice",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "mocha"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"mocha": "^7.0.1",
+		"mongoose": "^5.8.11"
+	}
 }
