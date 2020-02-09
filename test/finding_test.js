@@ -9,8 +9,6 @@ describe("finding records", () => {
 			weight: 300
 		});
 		char.save().then(() => {
-			assert(char.isNew === false);
-
 			done();
 		});
 	});
